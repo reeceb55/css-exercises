@@ -1,0 +1,8 @@
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* can either do just .container or .container p or div p */
